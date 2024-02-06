@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\eberc\Desktop\Lab1, bueno\Lab1, bueno\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\eberc\Desktop\Lab1, bueno\Lab1, bueno\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\eberc\Desktop\Lab1, bueno\Lab1, bueno\Debug\Lab1, bueno.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab1, bueno.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab1, bueno.map</FILE>
+  <FILE>Lab1, bueno.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\eberc\Desktop\Lab1, bueno\Lab1, bueno\main.asm</FILE><LINE>21</LINE></SETUP>
+  <LOOP><FILE>C:\Users\eberc\Desktop\Lab1, bueno\Lab1, bueno\main.asm</FILE><LINE>42</LINE></LOOP>
+  <INCREASE><FILE>C:\Users\eberc\Desktop\Lab1, bueno\Lab1, bueno\main.asm</FILE><LINE>69</LINE></INCREASE>
+  <DECREASE><FILE>C:\Users\eberc\Desktop\Lab1, bueno\Lab1, bueno\main.asm</FILE><LINE>75</LINE></DECREASE>
+  <DELAYBOUNCE><FILE>C:\Users\eberc\Desktop\Lab1, bueno\Lab1, bueno\main.asm</FILE><LINE>56</LINE></DELAYBOUNCE>
+  <DELAY><FILE>C:\Users\eberc\Desktop\Lab1, bueno\Lab1, bueno\main.asm</FILE><LINE>59</LINE></DELAY>
+ </LABELS>
+</ASSEMBLER_INFO>
